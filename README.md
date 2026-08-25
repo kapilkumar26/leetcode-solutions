@@ -11,11 +11,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0125-valid-palindrome) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0162-find-peak-element](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0643-maximum-average-subarray-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
