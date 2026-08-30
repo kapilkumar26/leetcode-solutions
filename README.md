@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0162-find-peak-element](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0162-find-peak-element) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Segment Tree
 |  |
@@ -85,4 +87,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1952-three-divisors](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1952-three-divisors) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
