@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0011-container-with-most-water) |
 | [0053-maximum-subarray](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0053-maximum-subarray) |
+| [0074-search-a-2d-matrix](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [3477-fruits-into-baskets-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -100,4 +102,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0053-maximum-subarray) |
+## Matrix
+|  |
+| ------- |
+| [0074-search-a-2d-matrix](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0074-search-a-2d-matrix) |
 <!---LeetCode Topics End-->
