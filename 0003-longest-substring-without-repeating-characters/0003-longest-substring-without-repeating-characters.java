@@ -4,19 +4,17 @@ class Solution {
         int left = 0;
         int maxLen = 0;
 
-        HashSet<Character> set = new HashSet<>();
+        int[] last = new int[128];
 
         for (int right = 0; right < s.length(); right++) {
 
-            while (set.contains(s.charAt(right))) {
-                set.remove(s.charAt(left));
-                left++;
-            }
+            char ch = s.charAt(right);
 
-            set.add(s.charAt(right));
+            left = Math.max(left, last[ch]);
 
-            int length = right - left + 1;
-            maxLen = Math.max(maxLen, length);
+            maxLen = Math.max(maxLen, right - left + 1);
+
+            last[ch] = right + 1;
         }
 
         return maxLen;
