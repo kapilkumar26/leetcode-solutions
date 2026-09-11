@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
+| [0560-subarray-sum-equals-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0560-subarray-sum-equals-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -158,4 +160,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1486-xor-operation-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
