@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0540-single-element-in-a-sorted-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3477-fruits-into-baskets-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0643-maximum-average-subarray-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0904-fruit-into-baskets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Greedy
 |  |
@@ -164,4 +167,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1004-max-consecutive-ones-iii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
