@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1678-goal-parser-interpretation](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 ## Two Pointers
 |  |
 | ------- |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1572-matrix-diagonal-sum](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1672-richest-customer-wealth) |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 | [3477-fruits-into-baskets-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3477-fruits-into-baskets-ii) |
 ## Ordered Set
