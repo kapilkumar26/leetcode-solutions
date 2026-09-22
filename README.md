@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0012-integer-to-roman) |
 | [0058-length-of-last-word](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0125-valid-palindrome) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0709-to-lower-case](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0709-to-lower-case) |
 | [1108-defanging-an-ip-address](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1678-goal-parser-interpretation](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0012-integer-to-roman) |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0904-fruit-into-baskets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -177,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 ## Bit Manipulation
 |  |
@@ -198,4 +201,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
+## Queue
+|  |
+| ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 <!---LeetCode Topics End-->
