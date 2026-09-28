@@ -193,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0461-hamming-distance](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0461-hamming-distance) |
 | [1486-xor-operation-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
