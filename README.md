@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0048-rotate-image) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 | [1486-xor-operation-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -224,4 +225,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
