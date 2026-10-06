@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1108-defanging-an-ip-address](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1108-defanging-an-ip-address) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1678-goal-parser-interpretation](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1678-goal-parser-interpretation) |
+| [1768-merge-strings-alternately](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1876-substrings-of-size-three-with-distinct-characters](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1876-substrings-of-size-three-with-distinct-characters) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -30,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [1768-merge-strings-alternately](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
 |  |
