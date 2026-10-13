@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0202-happy-number) |
 | [0345-reverse-vowels-of-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1768-merge-strings-alternately) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/kapilkumar26/leetcode-solutions/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Array
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0852-peak-index-in-a-mountain-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
+| [0977-squares-of-a-sorted-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1004-max-consecutive-ones-iii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1313-decompress-run-length-encoded-list](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1313-decompress-run-length-encoded-list) |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0455-assign-cookies](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
+| [0977-squares-of-a-sorted-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Heap (Priority Queue)
 |  |
