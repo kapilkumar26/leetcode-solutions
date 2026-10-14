@@ -155,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1952-three-divisors](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1952-three-divisors) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
+| [3871-count-commas-in-range-ii](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/3875-construct-uniform-parity-array-i) |
 ## Sliding Window
 |  |
