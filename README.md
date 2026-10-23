@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0202-happy-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
 | [0836-rectangle-overlap](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0836-rectangle-overlap) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1952-three-divisors](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1952-three-divisors) |
@@ -231,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0461-hamming-distance](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0461-hamming-distance) |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1486-xor-operation-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1486-xor-operation-in-an-array) |
 ## Prefix Sum
 |  |
