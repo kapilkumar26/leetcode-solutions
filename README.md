@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0455-assign-cookies) |
+| [0496-next-greater-element-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0628-maximum-product-of-three-numbers](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0628-maximum-product-of-three-numbers) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0645-set-mismatch) |
 | [0904-fruit-into-baskets](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0904-fruit-into-baskets) |
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0496-next-greater-element-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
 |  |
@@ -316,4 +319,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0206-reverse-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
