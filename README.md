@@ -264,14 +264,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0303-range-sum-query-immutable](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0303-range-sum-query-immutable) |
 ## Queue
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0387-first-unique-character-in-a-string](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0387-first-unique-character-in-a-string) |
 ## Stack
 |  |
 | ------- |
+| [0225-implement-stack-using-queues](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0225-implement-stack-using-queues) |
 | [0496-next-greater-element-i](https://github.com/kapilkumar26/leetcode-solutions/tree/master/0496-next-greater-element-i) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/kapilkumar26/leetcode-solutions/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Bracket Sequences
